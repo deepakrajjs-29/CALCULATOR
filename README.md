@@ -14,7 +14,4 @@ cd CALCULATOR
 # No install needed, just open index.html 
 
 
-fell free to contact me
-## Contributors
 
-Thanks to everyone who helps improve this project.
